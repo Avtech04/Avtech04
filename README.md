@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Varshney</h1>
 <h3 align="center">A passionate developer from MNNIT Allahabad</h3>
-<img align="left" alt="Coding" width="350" height="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
+<img align="center" alt="Coding" width="650" height="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avtech04&label=Profile%20views&color=0e75b6&style=flat" alt="avtech04" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avtech04" alt="avtech04" /></a> </p>
