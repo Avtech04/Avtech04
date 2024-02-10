@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayush Varshney and I'm a  Pre Final Student, from MNNIT ALLAHABAD</h2>
+<h2 align="left">Hi 👋! I am Ayush Varshney, Pre Final Student, from MNNIT ALLAHABAD</h2>
 
 ###
 
